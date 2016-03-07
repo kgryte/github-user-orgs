@@ -1,6 +1,6 @@
 {
   "name": "github-user-orgs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get a user's organization memberships.",
   "author": {
     "name": "Athan Reines",
